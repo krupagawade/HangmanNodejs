@@ -1,0 +1,1 @@
+chicago,newyork,miami,losangeles,sanfransico,dallas,boston,lasvegas,phoenix,houston,denver,detroit
